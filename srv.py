@@ -40,6 +40,13 @@ def verificar():
 	print("Leite: {}".format(milk))
 	print("Voa: {}".format(airborne))
 	print("Predador: {}".format(predator))
+	print("toothed: {}".format(toothed))
+	print("breathes: {}".format(breathes))
+	print("fins: {}".format(fins))
+	print("legs: {}".format(legs))
+	print("tail: {}".format(tail))
+	print("domestic: {}".format(domestic))
+	print("Venenoso: {}".format(venomous))
 	print("Venenoso: {}".format(venomous))
 	print("\n")
 
